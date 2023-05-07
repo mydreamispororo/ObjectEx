@@ -5,5 +5,5 @@
  * @author ITPS
  *
  */
-module ObjectEx03 {
+module ObjectEx04 {
 }
